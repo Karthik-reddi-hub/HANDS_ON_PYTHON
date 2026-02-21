@@ -50,7 +50,7 @@ Based on the detected category, the program provides a suitable recommendation.
 
 ## 🔢 Personalization Applied
 
-- **Register Number:** APA4110011888  
+- **Register Number:** AP24110011888  
 - **Last Digit:** 8  
 - **Variation Threshold:** `8 × 50 = 400`
 
@@ -108,8 +108,8 @@ Recommendation: Good listening session
 
 ## 👤 Author
 
-**Name:** (Your Name)  
-**Register Number:** APA4110011888  
+**Name:** R.KARTHIK 
+**Register Number:** AP24110011888  
 **Course Code:** CSE205  
 **University:** SRM University–AP  
 
